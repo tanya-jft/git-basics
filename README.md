@@ -1,7 +1,7 @@
 Assignment
 
 
-Clone the repository at https://github.com/sajalguptajft/git-basics.
+Fork the repository at https://github.com/sajalguptajft/git-basics.
 
 Add a file to the participants directory that describes you.
 
